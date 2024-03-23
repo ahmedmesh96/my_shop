@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190911491319",
+    "project_id": "fayrouz-beauty-57a4f",
+    "storage_bucket": "fayrouz-beauty-57a4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190911491319:android:dc95f8e9a09687387337f2",
+        "android_client_info": {
+          "package_name": "com.example.fayrouzbeauty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrRcX7SscWf6VhXniqxiFr-pQNbNFo7Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190911491319:android:596a3eab8628259a7337f2",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrRcX7SscWf6VhXniqxiFr-pQNbNFo7Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
